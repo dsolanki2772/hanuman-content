@@ -2,63 +2,267 @@
   "wallpapers": [
     {
       "id": 1,
-      "title": "Radha Krishna",
+      "title": "Krishna",
       "imageUrl": "https://raw.githubusercontent.com/dsolanki2772/krishna-content/main/wallpapers/krishan.jpeg",
       "category": "Radha Krishna"
     },
     {
       "id": 2,
-      "title": "Krishna playing Flute in Vrindavan",
+      "title": "Krishanji Beauty",
       "imageUrl": "https://raw.githubusercontent.com/dsolanki2772/krishna-content/main/wallpapers/krishanji_beauty.jpeg",
       "category": "Bal Krishna"
     },
     {
       "id": 3,
-      "title": "Bal Krishna",
+      "title": "Krishna Bhagwan",
       "imageUrl": "https://raw.githubusercontent.com/dsolanki2772/krishna-content/main/wallpapers/krishna_bhagwan.jpeg",
       "category": "Bal Krishna"
     },
     {
       "id": 4,
-      "title": "The Path of Righteousness",
+      "title": "Krishnaji",
       "imageUrl": "https://raw.githubusercontent.com/dsolanki2772/krishna-content/main/wallpapers/krishnaji.jpeg",
       "category": "Bhagavad Gita"
     },
     {
       "id": 5,
-      "title": "Artistic Krishna Painting",
+      "title": "Morpichh",
       "imageUrl": "https://raw.githubusercontent.com/dsolanki2772/krishna-content/main/wallpapers/morpichh.jpeg",
       "category": "Krishna Art"
     },
     {
       "id": 6,
-      "title": "Janmashtami Celebrations Card",
+      "title": "Radha Krishna",
       "imageUrl": "https://raw.githubusercontent.com/dsolanki2772/krishna-content/main/wallpapers/radha_krishna.jpeg",
       "category": "Janmashtami"
     },
     {
       "id": 7,
-      "title": "Lord Krishna Temple of Mathura",
+      "title": "Radhe Krishna",
       "imageUrl": "https://raw.githubusercontent.com/dsolanki2772/krishna-content/main/wallpapers/radhe_krishna.jpeg",
       "category": "Krishna Temple"
     },
     {
       "id": 8,
-      "title": "Glorious Peacock Feather Detail",
+      "title": "Radhe Radhe",
       "imageUrl": "https://raw.githubusercontent.com/dsolanki2772/krishna-content/main/wallpapers/radhe_radhe.jpeg",
       "category": "HD Wallpapers"
     },
     {
       "id": 9,
-      "title": "Radha Krishna Flute Chords",
+      "title": "Radhekrishana",
       "imageUrl": "https://raw.githubusercontent.com/dsolanki2772/krishna-content/main/wallpapers/radhekrishana.webp",
       "category": "Radha Krishna"
     },
     {
       "id": 10,
-      "title": "Krishna Gita Upadesh Chariot",
+      "title": "Shri Krishna",
       "imageUrl": "https://raw.githubusercontent.com/dsolanki2772/krishna-content/main/wallpapers/shri_krishna.jpeg",
       "category": "Bhagavad Gita"
+    },
+    {
+      "id": 11,
+      "title": "Jj",
+      "imageUrl": "https://raw.githubusercontent.com/dsolanki2772/krishna-content/main/wallpapers/jj.jpeg",
+      "category": "Radha Krishna"
+    },
+    {
+      "id": 12,
+      "title": "Not Bound By Time Not Limited By Words ",
+      "imageUrl": "https://raw.githubusercontent.com/dsolanki2772/krishna-content/main/wallpapers/Not_bound_by_time_not_limited_by_words_.jpeg",
+      "category": "Radha Krishna"
+    },
+    {
+      "id": 13,
+      "title": "Krishna 6",
+      "imageUrl": "https://raw.githubusercontent.com/dsolanki2772/krishna-content/main/wallpapers/krishna_6.jpeg",
+      "category": "Radha Krishna"
+    },
+    {
+      "id": 14,
+      "title": "Krishna",
+      "imageUrl": "https://raw.githubusercontent.com/dsolanki2772/krishna-content/main/wallpapers/ku.jpeg",
+      "category": "Radha Krishna"
+    },
+    {
+      "id": 15,
+      "title": "Krishna 2",
+      "imageUrl": "https://raw.githubusercontent.com/dsolanki2772/krishna-content/main/wallpapers/kr2.jpeg",
+      "category": "Radha Krishna"
+    },
+    {
+      "id": 16,
+      "title": "Krishna 7",
+      "imageUrl": "https://raw.githubusercontent.com/dsolanki2772/krishna-content/main/wallpapers/krishna_7.jpeg",
+      "category": "Radha Krishna"
+    },
+    {
+      "id": 17,
+      "title": "Radha Krishna Wallpapper",
+      "imageUrl": "https://raw.githubusercontent.com/dsolanki2772/krishna-content/main/wallpapers/radha_krishna_wallpapper.jpeg",
+      "category": "Radha Krishna"
+    },
+    {
+      "id": 18,
+      "title": "Krishna 14",
+      "imageUrl": "https://raw.githubusercontent.com/dsolanki2772/krishna-content/main/wallpapers/kr14.jpeg",
+      "category": "Radha Krishna"
+    },
+    {
+      "id": 19,
+      "title": "The Eternal Flute Bearer Before Radha",
+      "imageUrl": "https://raw.githubusercontent.com/dsolanki2772/krishna-content/main/wallpapers/The_eternal_flute_bearer_before_radha.jpeg",
+      "category": "Radha Krishna"
+    },
+    {
+      "id": 20,
+      "title": "Krishna 5",
+      "imageUrl": "https://raw.githubusercontent.com/dsolanki2772/krishna-content/main/wallpapers/kr5.jpeg",
+      "category": "Radha Krishna"
+    },
+    {
+      "id": 21,
+      "title": "Krishna 13",
+      "imageUrl": "https://raw.githubusercontent.com/dsolanki2772/krishna-content/main/wallpapers/kr13.jpeg",
+      "category": "Radha Krishna"
+    },
+    {
+      "id": 22,
+      "title": "Krishna 12",
+      "imageUrl": "https://raw.githubusercontent.com/dsolanki2772/krishna-content/main/wallpapers/krishna_12.jpeg",
+      "category": "Radha Krishna"
+    },
+    {
+      "id": 23,
+      "title": "Kk",
+      "imageUrl": "https://raw.githubusercontent.com/dsolanki2772/krishna-content/main/wallpapers/kk.jpeg",
+      "category": "Radha Krishna"
+    },
+    {
+      "id": 24,
+      "title": "Krishna 8",
+      "imageUrl": "https://raw.githubusercontent.com/dsolanki2772/krishna-content/main/wallpapers/kr8.jpeg",
+      "category": "Radha Krishna"
+    },
+    {
+      "id": 25,
+      "title": "Krishna",
+      "imageUrl": "https://raw.githubusercontent.com/dsolanki2772/krishna-content/main/wallpapers/kr.jpeg",
+      "category": "Radha Krishna"
+    },
+    {
+      "id": 26,
+      "title": "Krishna 1",
+      "imageUrl": "https://raw.githubusercontent.com/dsolanki2772/krishna-content/main/wallpapers/krishna_1.jpeg",
+      "category": "Radha Krishna"
+    },
+    {
+      "id": 27,
+      "title": "Krishna 2",
+      "imageUrl": "https://raw.githubusercontent.com/dsolanki2772/krishna-content/main/wallpapers/krishna_2.jpeg",
+      "category": "Radha Krishna"
+    },
+    {
+      "id": 28,
+      "title": "Krishna 7",
+      "imageUrl": "https://raw.githubusercontent.com/dsolanki2772/krishna-content/main/wallpapers/kr7.jpeg",
+      "category": "Radha Krishna"
+    },
+    {
+      "id": 29,
+      "title": "Krishna 10",
+      "imageUrl": "https://raw.githubusercontent.com/dsolanki2772/krishna-content/main/wallpapers/krishna_10.jpeg",
+      "category": "Radha Krishna"
+    },
+    {
+      "id": 30,
+      "title": "Krishanaji",
+      "imageUrl": "https://raw.githubusercontent.com/dsolanki2772/krishna-content/main/wallpapers/krishanaji.webp",
+      "category": "Radha Krishna"
+    },
+    {
+      "id": 31,
+      "title": "Krishna 11",
+      "imageUrl": "https://raw.githubusercontent.com/dsolanki2772/krishna-content/main/wallpapers/kr11.jpeg",
+      "category": "Radha Krishna"
+    },
+    {
+      "id": 32,
+      "title": "Krishna 10",
+      "imageUrl": "https://raw.githubusercontent.com/dsolanki2772/krishna-content/main/wallpapers/kr10.jpeg",
+      "category": "Radha Krishna"
+    },
+    {
+      "id": 33,
+      "title": "Krishna 11",
+      "imageUrl": "https://raw.githubusercontent.com/dsolanki2772/krishna-content/main/wallpapers/krishna_11.jpeg",
+      "category": "Radha Krishna"
+    },
+    {
+      "id": 34,
+      "title": "Radha Krishna Wallpaper",
+      "imageUrl": "https://raw.githubusercontent.com/dsolanki2772/krishna-content/main/wallpapers/radha_krishna_wallpaper.jpeg",
+      "category": "Radha Krishna"
+    },
+    {
+      "id": 35,
+      "title": "Krishna 3",
+      "imageUrl": "https://raw.githubusercontent.com/dsolanki2772/krishna-content/main/wallpapers/kr3.webp",
+      "category": "Radha Krishna"
+    },
+    {
+      "id": 36,
+      "title": "Krishna 3",
+      "imageUrl": "https://raw.githubusercontent.com/dsolanki2772/krishna-content/main/wallpapers/krishna_3.jpeg",
+      "category": "Radha Krishna"
+    },
+    {
+      "id": 37,
+      "title": "Krishna",
+      "imageUrl": "https://raw.githubusercontent.com/dsolanki2772/krishna-content/main/wallpapers/krrr.jpeg",
+      "category": "Radha Krishna"
+    },
+    {
+      "id": 38,
+      "title": "Krishna 8",
+      "imageUrl": "https://raw.githubusercontent.com/dsolanki2772/krishna-content/main/wallpapers/krishna_8.jpeg",
+      "category": "Radha Krishna"
+    },
+    {
+      "id": 39,
+      "title": "Krishna 4",
+      "imageUrl": "https://raw.githubusercontent.com/dsolanki2772/krishna-content/main/wallpapers/krishna_4.jpeg",
+      "category": "Radha Krishna"
+    },
+    {
+      "id": 40,
+      "title": "Krishna 1",
+      "imageUrl": "https://raw.githubusercontent.com/dsolanki2772/krishna-content/main/wallpapers/kr1.jpeg",
+      "category": "Radha Krishna"
+    },
+    {
+      "id": 41,
+      "title": "Krishna 5",
+      "imageUrl": "https://raw.githubusercontent.com/dsolanki2772/krishna-content/main/wallpapers/krishna_5.jpeg",
+      "category": "Radha Krishna"
+    },
+    {
+      "id": 42,
+      "title": "Krishna 9",
+      "imageUrl": "https://raw.githubusercontent.com/dsolanki2772/krishna-content/main/wallpapers/krishna_9.jpeg",
+      "category": "Radha Krishna"
+    },
+    {
+      "id": 43,
+      "title": "Krishna",
+      "imageUrl": "https://raw.githubusercontent.com/dsolanki2772/krishna-content/main/wallpapers/krishna.jpeg",
+      "category": "Radha Krishna"
+    },
+    {
+      "id": 44,
+      "title": "Krishna",
+      "imageUrl": "https://raw.githubusercontent.com/dsolanki2772/krishna-content/main/wallpapers/krr.jpeg",
+      "category": "Radha Krishna"
     }
   ],
   "ringtones": [
