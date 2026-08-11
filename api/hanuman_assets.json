@@ -63,6 +63,13 @@
   ],
   "ringtones": [
     {
+      "id": 200,
+      "title": "Shree Hanuman Chalisa",
+      "audioUrl": "https://raw.githubusercontent.com/dsolanki2772/hanuman-content/master/ringtones/Shree_Hanuman_Chalisa.mp3",
+      "duration": "09:41",
+      "category": "Hanuman Bhakti"
+    },
+    {
       "id": 201,
       "title": "Hanuman Chalisa",
       "audioUrl": "https://raw.githubusercontent.com/dsolanki2772/hanuman-content/master/ringtones/hanuman_chalisa.mp3",
